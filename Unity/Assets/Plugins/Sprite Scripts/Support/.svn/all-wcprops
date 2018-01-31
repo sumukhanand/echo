@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support
+END
+IUseCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/IUseCamera.cs
+END
+ISpriteAggregator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/ISpriteAggregator.cs
+END
+SpriteMesh.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/SpriteMesh.cs
+END
+FontStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/FontStore.cs
+END
+AutoSpriteBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/AutoSpriteBase.cs
+END
+ISpriteMesh.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/ISpriteMesh.cs
+END
+SpriteFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/SpriteFont.cs
+END
+ISpriteAnimatable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/ISpriteAnimatable.cs
+END
+SpriteMesh_Managed.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/SpriteMesh_Managed.cs
+END
+AutoSprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/AutoSprite.cs
+END
+PackableStub.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/PackableStub.cs
+END
+SpriteBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/SpriteBase.cs
+END
+ISpritePackable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/ISpritePackable.cs
+END
+EZScreenPlacement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/EZScreenPlacement.cs
+END
+SpriteAnimationPump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/SpriteAnimationPump.cs
+END
+EZAnimator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/EZAnimator.cs
+END
+SpriteRoot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/project-echo/!svn/ver/24/trunk/Assets/Plugins/Sprite%20Scripts/Support/SpriteRoot.cs
+END

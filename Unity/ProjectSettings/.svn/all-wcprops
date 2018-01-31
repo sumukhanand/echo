@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/project-echo/!svn/ver/45/trunk/ProjectSettings
+END
+NavMeshLayers.asset
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/project-echo/!svn/ver/2/trunk/ProjectSettings/NavMeshLayers.asset
+END
+DynamicsManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/project-echo/!svn/ver/2/trunk/ProjectSettings/DynamicsManager.asset
+END
+NetworkManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/project-echo/!svn/ver/2/trunk/ProjectSettings/NetworkManager.asset
+END
+TagManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/project-echo/!svn/ver/41/trunk/ProjectSettings/TagManager.asset
+END
+EditorBuildSettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/project-echo/!svn/ver/46/trunk/ProjectSettings/EditorBuildSettings.asset
+END
+EditorSettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/project-echo/!svn/ver/2/trunk/ProjectSettings/EditorSettings.asset
+END
+ProjectSettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/project-echo/!svn/ver/23/trunk/ProjectSettings/ProjectSettings.asset
+END
+QualitySettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/project-echo/!svn/ver/2/trunk/ProjectSettings/QualitySettings.asset
+END
+TimeManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/project-echo/!svn/ver/12/trunk/ProjectSettings/TimeManager.asset
+END
+InputManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/project-echo/!svn/ver/2/trunk/ProjectSettings/InputManager.asset
+END
+AudioManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/project-echo/!svn/ver/2/trunk/ProjectSettings/AudioManager.asset
+END

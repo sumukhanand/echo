@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/project-echo/!svn/ver/41/trunk/Assets/Resources/Music
+END
+echo_menu_track.wav
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/project-echo/!svn/ver/41/trunk/Assets/Resources/Music/echo_menu_track.wav
+END
+echo_action_track.wav
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/project-echo/!svn/ver/41/trunk/Assets/Resources/Music/echo_action_track.wav
+END
+echo_setup_track.wav
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project-echo/!svn/ver/41/trunk/Assets/Resources/Music/echo_setup_track.wav
+END

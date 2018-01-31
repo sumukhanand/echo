@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project-echo/!svn/ver/37/trunk/Assets/Standard%20Assets/Physic%20Materials
+END
+Metal.physicmaterial
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/project-echo/!svn/ver/37/trunk/Assets/Standard%20Assets/Physic%20Materials/Metal.physicmaterial
+END
+Wood.physicmaterial
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/project-echo/!svn/ver/37/trunk/Assets/Standard%20Assets/Physic%20Materials/Wood.physicmaterial
+END
+Bouncy.physicmaterial
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/project-echo/!svn/ver/37/trunk/Assets/Standard%20Assets/Physic%20Materials/Bouncy.physicmaterial
+END
+Ice.physicmaterial
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/project-echo/!svn/ver/37/trunk/Assets/Standard%20Assets/Physic%20Materials/Ice.physicmaterial
+END
+Rubber.physicmaterial
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/project-echo/!svn/ver/37/trunk/Assets/Standard%20Assets/Physic%20Materials/Rubber.physicmaterial
+END
